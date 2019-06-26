@@ -1,0 +1,25 @@
+{
+  "name": "ejercicio02_clase",
+  "version": "1.0.0",
+  "description": "Ejercicio en clasee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juventino13/ejercicio03-apepat.git"
+  },
+  "keywords": [
+    "Juv"
+  ],
+  "author": "Juv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juventino13/ejercicio03-apepat/issues"
+  },
+  "homepage": "https://github.com/Juventino13/ejercicio03-apepat#readme",
+  "dependencies": {
+    "number-to-words": "^1.2.4"
+  }
+}
